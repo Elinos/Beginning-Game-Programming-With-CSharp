@@ -1,0 +1,6 @@
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignmentOne\bin\Release\ProgrammingAssignmentOne.exe
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignmentOne\bin\Release\ProgrammingAssignmentOne.pdb
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignmentOne\obj\x86\Release\ProgrammingAssignmentOne.exe
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignmentOne\obj\x86\Release\ProgrammingAssignmentOne.pdb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentOne\ProgrammingAssignmentOne\obj\x86\Release\ProgrammingAssignmentOne.exe
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentOne\ProgrammingAssignmentOne\obj\x86\Release\ProgrammingAssignmentOne.pdb

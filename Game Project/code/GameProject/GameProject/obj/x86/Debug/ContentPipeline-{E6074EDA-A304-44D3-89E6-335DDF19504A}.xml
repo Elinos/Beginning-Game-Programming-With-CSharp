@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>openingscreen.png</Source>
+      <Name>openingscreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\openingscreen.xnb</Output>
+      <Time>2013-10-12T12:58:24.8152883+03:00</Time>
+    </Item>
+    <Item>
+      <Source>board.png</Source>
+      <Name>board</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\board.xnb</Output>
+      <Time>2013-10-12T13:12:09.7311805+03:00</Time>
+    </Item>
+    <Item>
+      <Source>eight.png</Source>
+      <Name>eight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\eight.xnb</Output>
+      <Time>2013-10-20T17:45:15.3110047+03:00</Time>
+    </Item>
+    <Item>
+      <Source>blinkingsix.png</Source>
+      <Name>blinkingsix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\blinkingsix.xnb</Output>
+      <Time>2013-10-20T18:22:08.8121044+03:00</Time>
+    </Item>
+    <Item>
+      <Source>five.png</Source>
+      <Name>five</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\five.xnb</Output>
+      <Time>2013-10-20T18:22:08.8140625+03:00</Time>
+    </Item>
+    <Item>
+      <Source>four.png</Source>
+      <Name>four</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\four.xnb</Output>
+      <Time>2013-10-20T18:22:08.8150375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>nine.png</Source>
+      <Name>nine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\nine.xnb</Output>
+      <Time>2013-10-20T18:22:08.8169926+03:00</Time>
+    </Item>
+    <Item>
+      <Source>one.png</Source>
+      <Name>one</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\one.xnb</Output>
+      <Time>2013-10-20T18:22:08.8199253+03:00</Time>
+    </Item>
+    <Item>
+      <Source>seven.png</Source>
+      <Name>seven</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\seven.xnb</Output>
+      <Time>2013-10-20T18:22:08.8209042+03:00</Time>
+    </Item>
+    <Item>
+      <Source>six.png</Source>
+      <Name>six</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\six.xnb</Output>
+      <Time>2013-10-20T18:22:08.8228585+03:00</Time>
+    </Item>
+    <Item>
+      <Source>three.png</Source>
+      <Name>three</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\three.xnb</Output>
+      <Time>2013-10-20T18:22:08.8248132+03:00</Time>
+    </Item>
+    <Item>
+      <Source>two.png</Source>
+      <Name>two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\two.xnb</Output>
+      <Time>2013-10-20T18:22:08.8267679+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E6074EDA-A304-44D3-89E6-335DDF19504A}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Kiril\Desktop\New folder\code\GameProject\GameProject\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-18T23:38:15.194466+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

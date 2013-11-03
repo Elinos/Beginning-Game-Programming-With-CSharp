@@ -1,0 +1,6 @@
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignment5\bin\Release\ProgrammingAssignment5.exe
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignment5\bin\Release\ProgrammingAssignment5.pdb
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignment5\obj\x86\Release\ProgrammingAssignment5.exe
+C:\Users\Kiril\AppData\Local\Temporary Projects\ProgrammingAssignment5\obj\x86\Release\ProgrammingAssignment5.pdb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Release\ProgrammingAssignment5.exe
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignment5\ProgrammingAssignment5\obj\x86\Release\ProgrammingAssignment5.pdb

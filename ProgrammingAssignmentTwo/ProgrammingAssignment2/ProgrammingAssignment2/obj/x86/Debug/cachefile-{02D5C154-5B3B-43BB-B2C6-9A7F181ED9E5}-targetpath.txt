@@ -1,0 +1,5 @@
+Content\ninja0.xnb
+Content\ninja1.xnb
+Content\ninja2.xnb
+Content\ninja3.xnb
+Content\ninja4.xnb

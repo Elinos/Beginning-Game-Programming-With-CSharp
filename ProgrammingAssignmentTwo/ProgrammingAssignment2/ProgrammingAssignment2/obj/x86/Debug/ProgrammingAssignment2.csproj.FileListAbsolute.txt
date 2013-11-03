@@ -1,0 +1,28 @@
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja0.xnb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja1.xnb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja2.xnb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja3.xnb
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja4.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja0.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja1.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja2.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja3.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\ninja4.xnb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb

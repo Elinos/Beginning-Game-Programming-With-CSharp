@@ -1,0 +1,3 @@
+D:\Courses\GDD 1200\Spring 2013\Programming Assignments\Programming Assignment 2\blackboard\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\ProgrammingAssignment2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Kiril\Desktop\New folder\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\ProgrammingAssignment2Content.contentprojResolveAssemblyReference.cache
+D:\Coursera\Beginning Game Programming With C#\ProgrammingAssignmentTwo\ProgrammingAssignment2\ProgrammingAssignment2Content\obj\x86\Debug\ProgrammingAssignment2Content.contentprojResolveAssemblyReference.cache
